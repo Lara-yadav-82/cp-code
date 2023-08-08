@@ -1,6 +1,6 @@
  # cp code
-this is the place to find my all the code that i am going to wirte for my cp in codeforces , codechef ,at coder
-and on top coder 
+this is the place to find all the code that I am going to write for my cp on Codeforces, Codechef, Atcoder
+and on Topcoder 
 
 
 
